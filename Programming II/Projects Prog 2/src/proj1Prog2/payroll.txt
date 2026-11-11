@@ -1,0 +1,188 @@
+First Name: Alexander
+Last Name: Tao
+Pay Rate: $25.00
+Hours Worked: 
+Gross Salary: $1,000.00
+Taxes :$180.00
+Net Income: $820.00
+---------------------------
+First Name: Bel
+Last Name: Elsenpeter
+Pay Rate: $50.00
+Hours Worked: 
+Gross Salary: $1,900.00
+Taxes :$342.00
+Net Income: $1,558.00
+---------------------------
+First Name: Bryan
+Last Name: Eskro
+Pay Rate: $15.00
+Hours Worked: 
+Gross Salary: $555.00
+Taxes :$99.90
+Net Income: $455.10
+---------------------------
+First Name: Charles
+Last Name: Ying
+Pay Rate: $13.00
+Hours Worked: 
+Gross Salary: $286.00
+Taxes :$51.48
+Net Income: $234.52
+---------------------------
+First Name: Christian
+Last Name: Vue
+Pay Rate: $17.00
+Hours Worked: 
+Gross Salary: $612.00
+Taxes :$110.16
+Net Income: $501.84
+---------------------------
+First Name: Felipe
+Last Name: Kaczor
+Pay Rate: $27.00
+Hours Worked: 
+Gross Salary: $783.00
+Taxes :$140.94
+Net Income: $642.06
+---------------------------
+First Name: HueCheng
+Last Name: Langford
+Pay Rate: $100.00
+Hours Worked: 
+Gross Salary: $1,500.00
+Taxes :$270.00
+Net Income: $1,230.00
+---------------------------
+First Name: Jake
+Last Name: Aureliano
+Pay Rate: $155.00
+Hours Worked: 
+Gross Salary: $3,875.00
+Taxes :$697.50
+Net Income: $3,177.50
+---------------------------
+First Name: James
+Last Name: Cadwell
+Pay Rate: $63.00
+Hours Worked: 
+Gross Salary: $2,520.00
+Taxes :$453.60
+Net Income: $2,066.40
+---------------------------
+First Name: Jerit
+Last Name: Sanden
+Pay Rate: $12.00
+Hours Worked: 
+Gross Salary: $444.00
+Taxes :$79.92
+Net Income: $364.08
+---------------------------
+First Name: Jerrett
+Last Name: Nelson
+Pay Rate: $15.00
+Hours Worked: 
+Gross Salary: $495.00
+Taxes :$89.10
+Net Income: $405.90
+---------------------------
+First Name: Jesse
+Last Name: Scott
+Pay Rate: $14.00
+Hours Worked: 
+Gross Salary: $546.00
+Taxes :$98.28
+Net Income: $447.72
+---------------------------
+First Name: Joseph
+Last Name: Feyereisen
+Pay Rate: $15.00
+Hours Worked: 
+Gross Salary: $150.00
+Taxes :$27.00
+Net Income: $123.00
+---------------------------
+First Name: Lingyun
+Last Name: Umphress
+Pay Rate: $27.00
+Hours Worked: 
+Gross Salary: $621.00
+Taxes :$111.78
+Net Income: $509.22
+---------------------------
+First Name: Maria
+Last Name: Kirk
+Pay Rate: $83.00
+Hours Worked: 
+Gross Salary: $3,320.00
+Taxes :$597.60
+Net Income: $2,722.40
+---------------------------
+First Name: Robert
+Last Name: Anderson
+Pay Rate: $250.00
+Hours Worked: 
+Gross Salary: $1,750.00
+Taxes :$315.00
+Net Income: $1,435.00
+---------------------------
+First Name: Rowan
+Last Name: Mullery
+Pay Rate: $15.00
+Hours Worked: 
+Gross Salary: $570.00
+Taxes :$102.60
+Net Income: $467.40
+---------------------------
+First Name: Samuel
+Last Name: Sahn
+Pay Rate: $19.00
+Hours Worked: 
+Gross Salary: $551.00
+Taxes :$99.18
+Net Income: $451.82
+---------------------------
+First Name: Sarah
+Last Name: Rengel
+Pay Rate: $21.00
+Hours Worked: 
+Gross Salary: $777.00
+Taxes :$139.86
+Net Income: $637.14
+---------------------------
+First Name: Trevor
+Last Name: Hoglund
+Pay Rate: $21.00
+Hours Worked: 
+Gross Salary: $840.00
+Taxes :$151.20
+Net Income: $688.80
+---------------------------
+First Name: Trevor
+Last Name: Davis
+Pay Rate: $24.00
+Hours Worked: 
+Gross Salary: $960.00
+Taxes :$172.80
+Net Income: $787.20
+---------------------------
+First Name: Aarde
+Last Name: Vander
+Pay Rate: $43.00
+Hours Worked: 
+Gross Salary: $1,591.00
+Taxes :$286.38
+Net Income: $1,304.62
+---------------------------
+First Name: Zachary
+Last Name: Gobina
+Pay Rate: $72.00
+Hours Worked: 
+Gross Salary: $2,088.00
+Taxes :$375.84
+Net Income: $1,712.16
+---------------------------
+Number of Employees Processed: 67
+Total Payroll: $27,734.00
+Total Taxes: $4,992.12
+Payroll Checks Total: $22,741.88
