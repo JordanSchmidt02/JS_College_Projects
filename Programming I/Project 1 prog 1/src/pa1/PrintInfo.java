@@ -31,18 +31,18 @@ public class PrintInfo {
 		int t55 = -55;
 		//variables
 		
-		 System.out.println( state + " is a U.S. state located in the north-central "+ country + ". The state is known as “America’s  " );
-		 System.out.println( "Dairyland” because it is one of the nation’s leading dairy producers. The United States Census");
+		 System.out.println( state + " is a U.S. state located in the north-central "+ country + ". The state is known as 'America's  " );
+		 System.out.println( "Dairyland' because it is one of the nation's leading dairy producers. The United States Census");
 		 System.out.println( "Bureau estimates that the population of Wisconsin was " + population + " on July 1, " + y2018 + " a " + p223 + "% increase since");
 		 System.out.println( "the " + y2010 + " United States Census. \n ");
-		 System.out.println("The state capital is " + capital + "The state capital is " + city + ", which is located on the western shore of");
+		 System.out.println("The state capital is " + capital + ", and its largest city is " + city + ", which is located on the western shore of");
 		 System.out.println("Lake Michigan. The state is divided into " + county + " counties \n");
 		 System.out.println( state + "  experiences temperature extremes characteristic of its continental climate, with cold winters \n"
 		 		+ "and hot summers. The highest temperature ever recorded in the state was in the Wisconsin Dells, on July " );
-		 System.out.println("13, " + y1936 + ", where it reached " + t114 + " °F. The lowest temperature ever recorded in Wisconsin was in the village" );
-		 System.out.println("of " + village + ", where it reached " + t55 + " °F on both February 2 and 4, " + y1996 + "\n" );
+		 System.out.println("13, " + y1936 + ", where it reached " + t114 + " F. The lowest temperature ever recorded in Wisconsin was in the village" );
+		 System.out.println("of " + village + ", where it reached " + t55 + " F on both February 2 and 4, " + y1996 + ".\n" );
 		 System.out.println( state + " collects personal income taxes (based on five income brackets) which range from " + p4 + "% to" );
-		 System.out.println( p765 + "%. The state sales and use tax rate is " + p5 + "%");
+		 System.out.println( p765 + "%. The state sales and use tax rate is " + p5 + "%.");
 	// ...etc
 	}//end of main
 }//end of class
